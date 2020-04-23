@@ -23,7 +23,7 @@ namespace JogoDaVelhaConsole
             var secondMarker = "";
             var turn = "";
             bool gameIniciar = true;
-            Console.WriteLine("Pressione uma tecla para continuar...");
+            Console.WriteLine("Pressione Enter para continuar...");
             Console.ReadLine();
 
             while (true)
@@ -51,11 +51,7 @@ namespace JogoDaVelhaConsole
                     Console.Write("Por favor, pressione Enter... ");
                     Console.ReadLine();
                 }
-                else
-                {
-
-                }
-
+       
 
                 bool gameOn = true;
                 while (gameOn)
