@@ -8,3 +8,6 @@ Foi implementado nesse programa:
 - É feito um "sorteio" para ver quem irá jogar primeiro (ou seja, de forma randomizada);
 - Ao final do jogo sera perguntado se quer jogar novamente.
 Segue prints da tela do mesmo:
+<img src=https://github.com/rhuanhianc/Jogo_Da_Velha_Console/blob/master/Prints/01.png>
+<img src=https://github.com/rhuanhianc/Jogo_Da_Velha_Console/blob/master/Prints/02.png>
+<img src=https://github.com/rhuanhianc/Jogo_Da_Velha_Console/blob/master/Prints/03.png>
